@@ -1,0 +1,94 @@
+{
+  "app_name": "إيفنتلي",
+  "route": "روت",
+  "supervised_by": "تحت إشراف محمد نبيل",
+
+  "skip": "تخطي",
+  "lets_start": "هيا نبدأ",
+  "next": "التالي",
+  "get_started": "ابدأ الآن",
+
+  "personalize_your_experience_title": "خصّص تجربتك",
+  "personalize_your_experience_desc": "اختر المظهر واللغة المفضّلين لديك للبدء بتجربة مريحة ومناسبة لأسلوبك.",
+
+  "find_events_title": "اكتشف فعاليات تلهمك",
+  "find_events_desc": "انطلق في عالم من الفعاليات المصممة لتناسب اهتماماتك. سواء كنت تحب الموسيقى الحية أو ورش الفن أو الفعاليات المهنية أو استكشاف تجارب جديدة، لدينا ما يناسب الجميع. توصياتنا المختارة تساعدك على الاستكشاف والتواصل والاستفادة من كل فرصة حولك.",
+
+  "effortless_event_planning_title": "تخطيط الفعاليات بسهولة",
+  "effortless_event_planning_desc": "اجعل تنظيم فعالياتك أسهل مع أدوات التخطيط الشاملة. من إرسال الدعوات وإدارة تأكيد الحضور، إلى ضبط التذكيرات وتنسيق التفاصيل — نحن معك خطوة بخطوة. خطّط بكل سهولة وركّز على الأهم: صنع تجربة لا تُنسى لك ولضيوفك.",
+
+  "connect_with_friends_title": "تواصل مع الأصدقاء وشارك اللحظات",
+  "connect_with_friends_desc": "اجعل كل فعالية أكثر تميزاً بمشاركة التجربة مع الآخرين. يتيح لك التطبيق دعوة الأصدقاء وإبقاؤهم على اطلاع ومشاركة اللحظات الجميلة. التقط وشارك الحماس مع شبكتك لتعيش الذكريات من جديد.",
+
+  "language": "اللغة",
+  "theme": "المظهر",
+  "english": "الإنجليزية",
+  "arabic": "العربية",
+
+  "login_light": "تسجيل الدخول (فاتح)",
+  "login": "تسجيل الدخول",
+  "signup": "إنشاء حساب",
+  "sign_up": "إنشاء حساب",
+  "register": "تسجيل",
+
+  "login_to_your_account": "سجّل الدخول إلى حسابك",
+  "create_your_account": "أنشئ حسابك",
+
+  "enter_your_email": "أدخل بريدك الإلكتروني",
+  "enter_your_password": "أدخل كلمة المرور",
+  "enter_your_name": "أدخل اسمك",
+  "confirm_your_password": "أكد كلمة المرور",
+
+  "forget_password": "نسيت كلمة المرور",
+  "forgot_password_q": "نسيت كلمة المرور؟",
+  "reset_password": "إعادة تعيين كلمة المرور",
+  "reset_password_btn": "إعادة تعيين كلمة المرور",
+
+  "dont_have_account_q": "ليس لديك حساب؟",
+  "already_have_account_q": "لديك حساب بالفعل؟",
+  "login_here": "سجّل الدخول",
+
+  "or": "أو",
+  "login_with_google": "تسجيل الدخول باستخدام Google",
+  "signup_with_google": "إنشاء حساب باستخدام Google",
+
+  "home": "الرئيسية",
+  "favourite": "المفضلة",
+  "profile": "الملف الشخصي",
+
+  "welcome_back": "مرحباً بعودتك!",
+  "john_safwat": "جون صفوت",
+
+  "all": "الكل",
+  "sport": "رياضة",
+  "birthday": "عيد ميلاد",
+  "book_club": "نادي الكتاب",
+  "meeting": "اجتماع",
+  "exhibition": "معرض",
+
+  "search_for_event": "ابحث عن فعالية",
+  "this_is_birthday_party": "هذه حفلة عيد ميلاد",
+  "meeting_for_updating": "اجتماع لتحديث التطوير",
+  "discover_unique_exhibitions": "اكتشف معارض ومواهب فريدة",
+  "method": "الطريقة",
+
+  "dark_mode": "الوضع الداكن",
+  "logout": "تسجيل الخروج",
+
+  "add_event": "إضافة فعالية",
+  "event_details": "تفاصيل الفعالية",
+  "edit_event": "تعديل الفعالية",
+  "update_event": "تحديث الفعالية",
+
+  "title": "العنوان",
+  "event_title": "عنوان الفعالية",
+  "description": "الوصف",
+  "event_description": "وصف الفعالية...",
+
+  "event_date": "تاريخ الفعالية",
+  "event_time": "وقت الفعالية",
+  "choose_date": "اختر التاريخ",
+  "choose_time": "اختر الوقت",
+
+  "we_are_going_to_play_football": "سنلعب كرة القدم"
+}

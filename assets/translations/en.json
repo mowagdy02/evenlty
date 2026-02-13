@@ -1,0 +1,94 @@
+{
+  "app_name": "EVENTLY",
+  "route": "ROUTE",
+  "supervised_by": "Supervised by Mohamed Nabil",
+
+  "skip": "Skip",
+  "lets_start": "Let’s start",
+  "next": "Next",
+  "get_started": "Get started",
+
+  "personalize_your_experience_title": "Personalize Your Experience",
+  "personalize_your_experience_desc": "Choose your preferred theme and language to get started with a comfortable, tailored experience that suits your style.",
+
+  "find_events_title": "Find Events That Inspire You",
+  "find_events_desc": "Dive into a world of events crafted to fit your unique interests. Whether you’re into live music, art workshops, professional networking, or simply discovering new experiences, we have something for everyone. Our curated recommendations will help you explore, connect, and make the most of every opportunity around you.",
+
+  "effortless_event_planning_title": "Effortless Event Planning",
+  "effortless_event_planning_desc": "Take the hassle out of organizing events with our all-in-one planning tools. From setting up invites and managing RSVPs to scheduling reminders and coordinating details, we’ve got you covered. Plan with ease and focus on what matters – creating an unforgettable experience for you and your guests.",
+
+  "connect_with_friends_title": "Connect with Friends & Share Moments",
+  "connect_with_friends_desc": "Make every event memorable by sharing the experience with others. Our platform lets you invite friends, keep everyone in the loop, and celebrate moments together. Capture and share the excitement with your network, so you can relive the highlights and cherish the memories.",
+
+  "language": "Language",
+  "theme": "Theme",
+  "english": "English",
+  "arabic": "Arabic",
+
+  "login_light": "Login Light",
+  "login": "Login",
+  "signup": "Signup",
+  "sign_up": "Sign up",
+  "register": "register",
+
+  "login_to_your_account": "Login to your account",
+  "create_your_account": "Create your account",
+
+  "enter_your_email": "Enter your email",
+  "enter_your_password": "Enter your password",
+  "enter_your_name": "Enter your name",
+  "confirm_your_password": "Confirm your password",
+
+  "forget_password": "Forget password",
+  "forgot_password_q": "Forgot Password?",
+  "reset_password": "Reset password",
+  "reset_password_btn": "Reset password",
+
+  "dont_have_account_q": "Don't have an account ?",
+  "already_have_account_q": "Already have an account ?",
+  "login_here": "Login",
+
+  "or": "Or",
+  "login_with_google": "Login with Google",
+  "signup_with_google": "Sign up with Google",
+
+  "home": "Home",
+  "favourite": "Favourite",
+  "profile": "profile",
+
+  "welcome_back": "Welcome Back!",
+  "john_safwat": "John Safwat",
+
+  "all": "All",
+  "sport": "Sport",
+  "birthday": "Birthday",
+  "book_club": "Book club",
+  "meeting": "Meeting",
+  "exhibition": "Exhibition",
+
+  "search_for_event": "search for event",
+  "this_is_birthday_party": "This is a birthday party",
+  "meeting_for_updating": "Meeting for Updating The Development",
+  "discover_unique_exhibitions": "Discover unique exhibitions and talents",
+  "method": "Method",
+
+  "dark_mode": "Dark mode",
+  "logout": "Logout",
+
+  "add_event": "Add event",
+  "event_details": "Event details",
+  "edit_event": "Edit event",
+  "update_event": "Update event",
+
+  "title": "Title",
+  "event_title": "Event Title",
+  "description": "Description",
+  "event_description": "Event Description...",
+
+  "event_date": "Event Date",
+  "event_time": "Event Time",
+  "choose_date": "Choose date",
+  "choose_time": "Choose time",
+
+  "we_are_going_to_play_football": "We’re going to play football"
+}
